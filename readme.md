@@ -949,3 +949,4 @@ GET http://api_host:port/api/v1/status
 - Added display for mining pool latency.
 - Added display for mining pool difficulty.
 - Improve API web monitor.
+
